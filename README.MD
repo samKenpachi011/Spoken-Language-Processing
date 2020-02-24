@@ -1,5 +1,5 @@
 # A GUIDE TO SPOKEN LANGUAGE PROCESSING
-![alt-text](images/slp.png)
+![alt-text](images/audio-wave.png)
 This Repository will guide you to understanding the building blocks,terminology,importing and manipulating audio files and ending up turnig audio into text and doing some sentiment analysis.
 
 ## EVOLUTION 
